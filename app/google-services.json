@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90975003628",
+    "project_id": "netta-s-bakery-e2f7c",
+    "storage_bucket": "netta-s-bakery-e2f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90975003628:android:7c787e7ff64c68ed84d6c9",
+        "android_client_info": {
+          "package_name": "com.example.nettas_bakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90975003628-1lo1k006d0p1dq0h9cijd5dfo0jsqo52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpr0JDYfeQuGGq1Xhh6J1sef7PS8hWOzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90975003628-1lo1k006d0p1dq0h9cijd5dfo0jsqo52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
